@@ -1,0 +1,11 @@
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\bin\Debug\net8.0\NewsAPI-Shared.deps.json
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\bin\Debug\net8.0\NewsAPI-Shared.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\bin\Debug\net8.0\NewsAPI-Shared.pdb
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\NewsAPI-Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\NewsAPI-Shared.AssemblyInfoInputs.cache
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\NewsAPI-Shared.AssemblyInfo.cs
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\NewsAPI-Shared.csproj.CoreCompileInputs.cache
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\NewsAPI-Shared.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\refint\NewsAPI-Shared.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\NewsAPI-Shared.pdb
+C:\Users\AshwiniKumar\source\repos\NewsAPI-Shared\obj\Debug\net8.0\ref\NewsAPI-Shared.dll

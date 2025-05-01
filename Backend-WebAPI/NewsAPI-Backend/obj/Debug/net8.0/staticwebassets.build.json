@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e4sMLrQeUUIL4PFpeIfjxaBYp1VmTqnGOf7Tpt7WdHg=",
+  "Source": "NewsAPI-Backend",
+  "BasePath": "_content/NewsAPI-Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

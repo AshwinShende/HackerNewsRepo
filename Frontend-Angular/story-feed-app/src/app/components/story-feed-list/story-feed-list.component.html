@@ -1,0 +1,9 @@
+<app-search-story-feed-list  (dataToStoryFeed)="getDataFromsrchText($event)"></app-search-story-feed-list>
+<ul>
+  <li *ngFor="let story of updatedstorylist | paginate: { itemsPerPage: pageSize, currentPage: page, totalItems: totallitems  }">
+   
+    <a  [href]="story?.url !=''?story?.url :''" >{{ story?.title }}</a>
+   
+  </li>
+</ul>
+<pagination-controls (pageChange)="page = $event"></pagination-controls>

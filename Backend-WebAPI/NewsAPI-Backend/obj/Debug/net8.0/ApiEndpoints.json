@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "NewsController",
+    "Method": "GetLatestStories",
+    "RelativePath": "api/news",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

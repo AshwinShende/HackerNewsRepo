@@ -1,0 +1,17 @@
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\bin\Debug\net8.0\NewsAPI-ServiceLayer.deps.json
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\bin\Debug\net8.0\NewsAPI-ServiceLayer.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\bin\Debug\net8.0\NewsAPI-ServiceLayer.pdb
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\bin\Debug\net8.0\NewsAPI-Shared.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\bin\Debug\net8.0\NewsAPI-Shared.pdb
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-ServiceLayer.AssemblyInfo.cs
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-.DE1E7C5F.Up2Date
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-ServiceLayer.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\refint\NewsAPI-ServiceLayer.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\NewsAPI-ServiceLayer.pdb
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\obj\Debug\net8.0\ref\NewsAPI-ServiceLayer.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\bin\Debug\net8.0\NewsAPI-DataAccesLayer.dll
+C:\Users\AshwiniKumar\source\repos\NewsAPI-ServiceLayer\bin\Debug\net8.0\NewsAPI-DataAccesLayer.pdb
