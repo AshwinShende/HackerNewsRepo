@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\source\\repos\\backend-webapi\\newsapi-backend\\newsapi-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:newsapi-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\source\\repos\\backend-webapi\\newsapi-backend\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\source\\repos\\backend-webapi\\newsapi-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\documents\\github\\hackernewsrepo\\backend-webapi\\newsapi-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\source\\repos\\backend-webapi\\newsapi-backend\\newsapi-backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:newsapi-backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\source\\repos\\backend-webapi\\newsapi-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\documents\\github\\hackernewsrepo\\backend-webapi\\newsapi-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\source\\repos\\backend-webapi\\newsapi-backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\documents\\github\\hackernewsrepo\\backend-webapi\\newsapi-backend\\newsapi-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:newsapi-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\documents\\github\\hackernewsrepo\\backend-webapi\\newsapi-backend\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\documents\\github\\hackernewsrepo\\backend-webapi\\newsapi-backend\\newsapi-backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:newsapi-backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\documents\\github\\hackernewsrepo\\backend-webapi\\newsapi-backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\source\\repos\\backend-webapi\\newsapi-backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|c:\\users\\ashwinikumar\\documents\\github\\hackernewsrepo\\backend-webapi\\newsapi-backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{53B0CA4E-AA20-4255-B91F-6161E09BA394}|NewsAPI-Backend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -77,27 +77,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NewsControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAgwDcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T05:13:35.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NewsAPI-Backend.csproj",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
               "RelativeDocumentMoniker": "NewsAPI-Backend.csproj",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
               "RelativeToolTip": "NewsAPI-Backend.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -106,60 +94,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Controllers\\NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Controllers\\NewsController.cs",
               "RelativeToolTip": "Controllers\\NewsController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAjwAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T13:31:36.225Z"
+              "WhenOpened": "2025-04-26T13:31:36.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "NewsService.cs",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsService.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-ServiceLayer\\NewsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-ServiceLayer\\NewsService.cs",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsService.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-ServiceLayer\\NewsService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-ServiceLayer\\NewsService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAWwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T13:24:22.952Z"
+              "WhenOpened": "2025-04-26T13:24:22.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADgvyAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:41:40.6Z"
+              "WhenOpened": "2025-04-26T14:41:40.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "INewsService.cs",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\Interfaces\\INewsService.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-ServiceLayer\\Interfaces\\INewsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-ServiceLayer\\Interfaces\\INewsService.cs",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\Interfaces\\INewsService.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-ServiceLayer\\Interfaces\\INewsService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-ServiceLayer\\Interfaces\\INewsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T04:31:53.686Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T14:50:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Backend.Tests\\NewsControllerTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:13:35.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "NewsDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-DataAccesLayer\\NewsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-DataAccesLayer\\NewsDataAccess.cs",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsDataAccess.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-DataAccesLayer\\NewsDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-DataAccesLayer\\NewsDataAccess.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T13:24:53.038Z"
@@ -169,9 +186,9 @@
               "DocumentIndex": 12,
               "Title": "INewsData.cs",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\Interfaces\\INewsData.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-DataAccesLayer\\Interfaces\\INewsData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-DataAccesLayer\\Interfaces\\INewsData.cs",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\Interfaces\\INewsData.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-DataAccesLayer\\Interfaces\\INewsData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-DataAccesLayer\\Interfaces\\INewsData.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAjwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T10:51:22.824Z"
@@ -181,32 +198,33 @@
               "DocumentIndex": 13,
               "Title": "NewsAPI-DataAccesLayer.csproj",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
-              "RelativeToolTip": "..\\..\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-30T04:17:21.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NewsAPI-Backend",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
               "RelativeDocumentMoniker": "NewsAPI-Backend.csproj",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
               "RelativeToolTip": "NewsAPI-Backend.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T14:43:00.139Z"
+              "WhenOpened": "2025-04-26T14:43:00.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "NewsAPI-Backend.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
-              "RelativeToolTip": "..\\..\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-28T05:14:27.854Z"
@@ -216,9 +234,9 @@
               "DocumentIndex": 15,
               "Title": "NewsAPI-ServiceLayer.csproj",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
-              "RelativeToolTip": "..\\..\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-26T13:30:22.936Z"
@@ -228,9 +246,9 @@
               "DocumentIndex": 16,
               "Title": "HttpClientUtility.cs",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\Utils\\HttpClientUtility.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-Shared\\Utils\\HttpClientUtility.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\Utils\\HttpClientUtility.cs",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\Utils\\HttpClientUtility.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-Shared\\Utils\\HttpClientUtility.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\Utils\\HttpClientUtility.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T13:46:27.516Z"
@@ -239,9 +257,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Dockerfile",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -252,9 +270,9 @@
               "DocumentIndex": 17,
               "Title": "NewsStory.cs",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\Models\\NewsStory.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-Shared\\Models\\NewsStory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\Models\\NewsStory.cs",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\Models\\NewsStory.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-Shared\\Models\\NewsStory.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\Models\\NewsStory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T13:29:38.382Z"
@@ -263,9 +281,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -273,24 +291,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\Backend-WebAPI\\NewsAPI-Backend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-26T14:50:34.672Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
               "ToolTip": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
               "ViewState": "AgIAAO4AAAAAAAAAAAAAANgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-04-26T14:42:46.796Z"
@@ -300,9 +306,9 @@
               "DocumentIndex": 18,
               "Title": "UrlConstants.cs",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\Constants\\UrlConstants.cs",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-Shared\\Constants\\UrlConstants.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\Constants\\UrlConstants.cs",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\Constants\\UrlConstants.cs",
-              "RelativeToolTip": "..\\..\\NewsAPI-Shared\\Constants\\UrlConstants.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\Constants\\UrlConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T13:50:18.462Z"
@@ -312,9 +318,9 @@
               "DocumentIndex": 19,
               "Title": "NewsAPI-Shared.csproj",
               "DocumentMoniker": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
-              "RelativeDocumentMoniker": "..\\..\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
               "ToolTip": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
-              "RelativeToolTip": "..\\..\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-26T13:28:49.973Z"

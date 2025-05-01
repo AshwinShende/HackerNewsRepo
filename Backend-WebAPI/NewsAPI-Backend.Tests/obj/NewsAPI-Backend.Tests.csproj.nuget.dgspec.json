@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj": {}
+    "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj": {
+    "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
         "projectName": "NewsAPI-Backend.Tests",
-        "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
+        "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
         "packagesPath": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\obj\\",
+        "outputPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\NewsAPI-Backend.csproj": {
-                "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\NewsAPI-Backend.csproj"
+              "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj": {
+                "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\NewsAPI-Backend.csproj": {
+    "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+        "projectUniqueName": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
         "projectName": "NewsAPI-Backend",
-        "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+        "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
         "packagesPath": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\obj\\",
+        "outputPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,11 +123,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj": {
-                "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj"
+              "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj": {
+                "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj"
               },
-              "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
-                "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
+              "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
+                "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
               }
             }
           }
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj": {
+    "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
         "projectName": "NewsAPI-DataAccesLayer",
-        "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
+        "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj",
         "packagesPath": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\obj\\",
+        "outputPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-DataAccesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -208,8 +208,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
-                "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
+              "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
+                "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
               }
             }
           }
@@ -249,14 +249,14 @@
         }
       }
     },
-    "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj": {
+    "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
+        "projectUniqueName": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
         "projectName": "NewsAPI-ServiceLayer",
-        "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
+        "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\obj\\",
+        "outputPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -277,11 +277,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj": {
-                "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj"
+              "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj": {
+                "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-DataAccesLayer\\NewsAPI-DataAccesLayer.csproj"
               },
-              "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
-                "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
+              "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
+                "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
               }
             }
           }
@@ -331,14 +331,14 @@
         }
       }
     },
-    "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
+    "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
+        "projectUniqueName": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
         "projectName": "NewsAPI-Shared",
-        "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
+        "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj",
         "packagesPath": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\obj\\",
+        "outputPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

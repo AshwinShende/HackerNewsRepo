@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+      "projectUniqueName": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
       "projectName": "NewsAPI-Backend",
-      "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
+      "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\NewsAPI-Backend.csproj",
       "packagesPath": "C:\\Users\\AshwiniKumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend\\obj\\",
+      "outputPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -756,11 +756,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj"
+            "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-ServiceLayer\\NewsAPI-ServiceLayer.csproj"
             },
-            "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
-              "projectPath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
+            "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj": {
+              "projectPath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Shared\\NewsAPI-Shared.csproj"
             }
           }
         }

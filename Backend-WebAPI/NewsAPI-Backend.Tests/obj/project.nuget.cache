@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yuRFb4s8sJE=",
+  "dgSpecHash": "paNjO0CQHos=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AshwiniKumar\\source\\repos\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
+  "projectFilePath": "C:\\Users\\AshwiniKumar\\Documents\\GitHub\\HackerNewsRepo\\Backend-WebAPI\\NewsAPI-Backend.Tests\\NewsAPI-Backend.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AshwiniKumar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\AshwiniKumar\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
