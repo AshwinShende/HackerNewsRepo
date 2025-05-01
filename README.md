@@ -57,5 +57,118 @@ To build and run the application in a Docker container:
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+# FrontEnd Angular
+
+This is an Angular application that displays the latest stories from a news API. The project is designed with a responsive layout, featuring a left navigation menu and a top menu bar. It also includes a loader component to indicate loading states.
+
+## Features
+
+- **Left Navigation Menu**: Navigate between different sections of the application.
+- **Top Menu Bar**: Displays the application title.
+- **Loader Component**: Displays a loading spinner while fetching data.
+- **API Integration**: Fetches the newest stories from a backend API.
+- **Responsive Design**: Built with Angular Material and Bootstrap for a modern UI.
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or higher recommended)
+- [Angular CLI](https://angular.io/cli) (v15 or higher)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd Hacker-News-Feed/story-feed-app
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   ng serve
+   ```
+
+4. Open the application in your browser:
+   ```
+   http://localhost:4200
+   ```
+
+## Project Structure
+
+```
+story-feed-app/
+├── src/
+│   ├── app/
+│   │   ├── components/
+│   │   │   ├── loader/
+│   │   │   │   ├── loader.component.html
+│   │   │   │   ├── loader.component.ts
+│   │   │   │   ├── loader.component.scss
+│   │   ├── services/
+│   │   │   ├── story-feed-service.ts
+│   │   ├── navigation/
+│   │   │   ├── navigation.component.html
+│   │   │   ├── navigation.component.ts
+│   │   │   ├── navigation.component.scss
+│   ├── styles.css
+├── angular.json
+├── package.json
+```
+
+## Key Components
+
+### Loader Component
+- **File**: `loader.component.html`
+- **Description**: Displays a spinner when the `loading$` observable emits `true`.
+- **Code**:
+  ```html
+  <div *ngIf="loaderService.loading$ | async" class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+  ```
+
+### Story Feed Service
+- **File**: `story-feed-service.ts`
+- **Description**: Fetches the newest stories from the backend API.
+- **Code**:
+  ```typescript
+  getNewestStories(): Observable<any[]> {
+    return this.http.get<any[]>(this.API_URL);
+  }
+  ```
+
+## Dependencies
+
+- **Angular**: Framework for building the application.
+- **Angular Material**: Provides UI components like navigation and toolbar.
+- **Bootstrap**: Adds responsive design and styling.
+- **RxJS**: Handles asynchronous data streams.
+
+## API Configuration
+
+The API URL is defined in the `StoryFeedService`:
+```typescript
+private API_URL = 'https://localhost:44306/api/news';
+```
+Ensure the backend API is running and accessible at this URL.
+
+## Running Tests
+
+To run unit tests:
+```bash
+ng test
+```
+
+## Build for Production
+
+To build the application for production:
+```bash
+ng build --configuration production
+```
+
    
    
