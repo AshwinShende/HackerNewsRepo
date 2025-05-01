@@ -14,19 +14,17 @@ namespace NewsAPI_ServiceLayer
 
     public class NewsService : INewsService
     {
-        private readonly IMemoryCache _cache;
+        
         private readonly INewsData _newsRepo;
-        public NewsService(IMemoryCache cache, INewsData newsRepo)
+        public NewsService( INewsData newsRepo)
         {
-            _cache = cache;
+          
             _newsRepo = newsRepo;
         }
 
         public async Task<List<NewsStory>> GetLatestStories()
         {
-            if (!_cache.TryGetValue("latest_stories", out List<NewsStory> stories))
-            {
-               
+            
                 // GET request
                 var newStoryIdListArr = await _newsRepo.GetLatestStories(UrlConstants.newStoriesUrl);
 
@@ -58,11 +56,7 @@ namespace NewsAPI_ServiceLayer
 
                 });
 
-                stories = lstNews;
-           
-                _cache.Set("latest_stories", stories, TimeSpan.FromMinutes(10));
-            }
-            return stories;
+            return lstNews;
         }
     }
 }
