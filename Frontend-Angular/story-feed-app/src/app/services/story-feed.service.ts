@@ -9,7 +9,6 @@ export class StoryFeedService {
   constructor(private http: HttpClient) {}
 
   getNewestStories(): Observable<any[]> {
-    debugger;
     return this.http.get<any[]>(this.API_URL);
   }
 }

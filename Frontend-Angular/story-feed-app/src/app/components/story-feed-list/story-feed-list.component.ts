@@ -1,5 +1,5 @@
 import { Component, OnInit, Pipe } from "@angular/core";
-import { StoryFeedService } from "../../services/story-feed-service";
+import { StoryFeedService } from "../../services/story-feed.service";
 import { StoryFeedListComponentSearch } from "../story-feed-list-search/story-feed-list-search.component";
 import { NgxPaginationModule } from 'ngx-pagination';
 
